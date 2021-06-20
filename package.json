@@ -1,0 +1,23 @@
+{
+  "name": "futbolapi",
+  "version": "1.0.0",
+  "description": "Futbol Api",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Futbol",
+    "lig",
+    "maç",
+    "takım"
+  ],
+  "author": "Erkan Pulat",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  }
+}
