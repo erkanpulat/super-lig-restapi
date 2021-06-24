@@ -85,15 +85,15 @@
       ```
       http://localhost:3000/match/fenerbahce?cond=homeTeam&date=decrease&random=2
       ```
-      **Ev sahibi takımın en az 3 gol attığı maçları listeler**
+      **Ev sahibi takımın en az 3 gol attığı maçları listeler.**
       ```
       http://localhost:3000/match/fenerbahce?homeTeamGoal=3
       ```
-      **Deplasmandaki takımın en az 3 gol attığı maçları listeler**
+      **Deplasmandaki takımın en az 3 gol attığı maçları listeler.**
       ```
       http://localhost:3000/match/fenerbahce?awayTeamGoal=3
       ```
-      **İlgili takımın kendi evinde gol attığı maçları listeler**
+      **İlgili takımın kendi evinde gol attığı maçları listeler.**
       ```
       http://localhost:3000/match/fenerbahce?cond=homeTeam&homeTeamGoal=1
       ```
